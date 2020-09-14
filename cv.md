@@ -52,7 +52,7 @@
 **link to free hostin** - x44590p9.beget.tech<br>
 
 **Period** - From September 2020 to now<br>
-**Role** - Studying of Frondend skills
+**Role** - Studying of Frondend skills<br>
 **School / Courses** - epam / RS School<br>
 ### Keywords
 ##### JavaScript; jQuery; HTML5; CSS3; Bootstrap; SCSS; LESS; SASS; BEM; GULP; CSS animation; Flex; Grid; Figma; Photoshop.
