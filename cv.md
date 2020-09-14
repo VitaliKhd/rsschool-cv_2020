@@ -1,5 +1,5 @@
-#Curriculum Vitae
-###General Information
+#Curriculum Vitae#<br>
+###General Information###<br>
 **Firstname** Vitali<br>
 **Lastname** Khudzenka<br>
 **E-mail** hudenkovitalij@gmail.com<br>
