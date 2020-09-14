@@ -49,7 +49,7 @@
 **Period** - From July 2020 to August 2020<br>
 **Role** - Creating portfolio<br>
 **link to github** - https://github.com/VitaliKhd/landingPage__potfolio.git<br>
-**link to free hostin** - https://x44590p9.beget.tech<br>
+**link to free hostin** - x44590p9.beget.tech<br>
 
 **Period** - From September 2020 to now<br>
 **Role** - Studying of Frondend skills<br>
