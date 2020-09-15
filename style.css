@@ -4,6 +4,10 @@
 	box-sizing: border-box;
 }
 
+body{
+    background-color: rgb(213, 212, 211);
+}
+
 .container {
     text-align: left;
     width: 500px;
@@ -24,4 +28,24 @@ h3 {
 
 h5{
     margin: 10px auto;
+}
+
+.profActivity__inner-info {
+    margin: 10px auto;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(57, 155, 99);
+}
+
+a:hover {
+    color: red;
+}
+
+.profActivity__inner-info-portfolio{
+    text-transform: uppercase;
+    color: rgb(204, 20, 20);
+    font-weight: bold;
 }
