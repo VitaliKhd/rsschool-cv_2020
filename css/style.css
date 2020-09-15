@@ -10,7 +10,7 @@ body{
 
 .container {
     text-align: left;
-    width: 500px;
+    max-width: 500px;
     margin: 0 auto;
 }
 
@@ -70,4 +70,50 @@ a:hover {
 
 footer {
     margin-bottom: 50px;
+ }
+
+ @media (max-width: 1550px){
+    .header__photo img{
+        top: 100px;
+        right: 550px;
+    }
+ }
+
+ @media (max-width: 1350px){
+    .header__photo img{
+        top: 100px;
+        right: 450px;
+    }
+ }
+
+ @media (max-width: 1150px){
+    .header__photo img{
+        top: 100px;
+        right: 350px;
+    }
+ }
+
+ @media (max-width: 950px){
+    .header__photo img{
+        top: 100px;
+        right: 250px;
+    }
+ }
+
+ @media (max-width: 750px){
+    .header__photo img{
+        top: 100px;
+        right: 150px;
+    }
+ }
+
+ @media (max-width: 550px){
+    .container {
+        margin-left: 10px;
+    }
+    .header__photo img {
+        position: static;
+        text-align: left;
+        margin-top: 40px;
+    }
  }
