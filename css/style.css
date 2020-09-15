@@ -15,6 +15,7 @@ body{
 }
 
 header {
+    margin-top: 50px;
     text-align: center;
 }
 
@@ -26,9 +27,9 @@ header h1{
     width: 144px;
     height: 120px;
     position: absolute;
-    top: 50px;
-    right: 180px;
     border-radius: 100%;
+    top: 100px;
+    right: 650px;
 }
 
 h3 {
@@ -61,8 +62,12 @@ a:hover {
     color: red;
 }
 
-.profActivity__inner-info-portfolio{
+.profActivity__inner-info-portfolio {
     text-transform: uppercase;
     color: rgb(204, 20, 20);
     font-weight: bold;
 }
+
+footer {
+    margin-bottom: 50px;
+ }
