@@ -21,3 +21,7 @@ h3 {
 .generalInfo__boldText {
     font-weight: bold;
 }
+
+h5{
+    margin: 10px auto;
+}
