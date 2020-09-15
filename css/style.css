@@ -30,6 +30,10 @@ h5{
     margin: 10px auto;
 }
 
+.profSkills__inner li {
+    list-style-type: none;
+}
+
 .profActivity__inner-info {
     margin: 10px auto;
 }
