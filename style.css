@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+    text-align: left;
+    width: 500px;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+}
+
+h3 {
+    margin: 20px auto;
+}
+
+.generalInfo__boldText {
+    font-weight: bold;
+}
